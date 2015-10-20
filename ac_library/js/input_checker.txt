@@ -1,0 +1,5 @@
+field_array=array("un","pw");
+function checkform(field_array){
+	//loop through array and validate each field
+	field_array.forEach()
+}
